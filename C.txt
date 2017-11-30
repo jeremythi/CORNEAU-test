@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 balbla
 
 
 c pas moi 
 nianiania
+=======
+Vive les bonbons
+>>>>>>> origin/master
